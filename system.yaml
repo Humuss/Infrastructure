@@ -1,0 +1,3 @@
+confiigVersion: 1
+access:
+  startUpSkipDefaultAdmin: false
